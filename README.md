@@ -43,11 +43,12 @@ Next a few steps:
 <img src="https://github.com/sparkman787/osticket-prereqs/blob/main/Step2.PNG"/>
 </p>
 <p>
-Next create a new Folder in the C drive to house the PHP docs, and then install VC redist if not already installed.
+Next create a new Folder in the C drive to house the PHP docs, and then install VC redist if not already installed. You will also need My Sequel as a storage database for OSticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  now open up IIS and register php inside, restart IIS services once PHP has been registered.
+<img src="https://github.com/sparkman787/osticket-prereqs/blob/main/Step3.PNG"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
