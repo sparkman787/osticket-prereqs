@@ -18,14 +18,6 @@ This tutorial outlines the pre-install configuration of the open-source help des
 
 - Windows 11</b> (24H2)
 
-<h2>Pre-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Configuration Steps</h2>
 
 <p>
@@ -51,6 +43,9 @@ Next create a new Folder in the C drive to house the PHP docs, and then install 
 <img src="https://github.com/sparkman787/osticket-prereqs/blob/main/Step3.PNG"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make sure an osTicket folder exists inside inetpub\wwwroot folder. Once finished head on into the localhost for the osTicket domain 
+  <img src="https://github.com/sparkman787/osticket-prereqs/blob/main/Step4.PNG"/>
+  make sure to go back into IIS to enable php extensions: _imap.dll,_intl.dll, and _opache.dll. Using heidi SQL set up your database
+  <img src="https://github.com/sparkman787/osticket-prereqs/blob/main/Step5.PNG"/>
 </p>
 <br />
